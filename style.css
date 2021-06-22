@@ -1,0 +1,64 @@
+body{
+    font-family: 'Poppins', sans-serif; 
+}
+.header-bg{
+    background-color: #FFFBF0;
+}
+.nav-decorate{
+    position: relative;
+    margin-right: 60px;
+}
+.home-area img{
+    width: 100%;
+}
+.home-area .row{
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+    margin-left: 20px;
+}
+.color-orange{
+    color: #FABE4C;
+}
+.color-gray{
+    color:#363958 ;
+}
+.btn-decorate{
+    background-color: #7ea829;
+    color: white;
+    ;
+    height: 50px;
+    width: 150px;
+    padding: 50x;
+    border-radius: 17px; 
+    border: #FFFBF0;
+}
+.card img{
+    background-color: #F1F1F1;
+    border-radius: 20px;
+
+}
+.img-size-fixed{
+    height: 320px;
+    padding:5px 40px;
+    
+   
+}
+.img-area{
+    margin: 20px;
+}
+.box-size{
+    height: 110px;
+    width: 450px;
+    
+}
+.comment-area{
+    height: 200px;
+     background-color: #FFFBF0;
+    
+   display: flex;
+   justify-content: center;
+   align-items: center;
+
+}
+
